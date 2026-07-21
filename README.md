@@ -1,4 +1,4 @@
-# crypto fraud detection 
+
 # Crypto fraud Detection with Medallion Architecture
 
 This project builds an early warning system for crypto pump and tail risk events by combining signals from unstructured Telegram data, structured market data, and several machine learning models. The pipeline is organized using a medallion-style data architecture (Bronze → Silver → Gold) and is backed by DuckDB for fast analytical processing.
