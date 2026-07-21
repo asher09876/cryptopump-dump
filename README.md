@@ -143,13 +143,4 @@ streamlit run dashboard.py
 
 ---
 
-## Notes
 
-This repository is an experimental analytics and modeling project for crypto risk monitoring. It combines NLP, time-series modeling, anomaly detection, explainability, and data warehousing concepts into a unified pipeline.
-
-If you want, the next step could be to expand this README with:
-
-- installation instructions,
-- dependency lists,
-- example SQL queries over DuckDB tables,
-- a more detailed architecture diagram.
